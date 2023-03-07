@@ -1,26 +1,21 @@
 # 📗 Table of Contents
 
-- [📖 About the Project](#Webpack-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#html-css)
-    - [Key Features](#home-page)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#Leslie_Gudo)
-- [🔭 Future Features](#the other pages)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#microverse)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- [� Table of Contents](#-table-of-contents)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Setup](#setup)
+    - [Run tests](#run-tests)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-**[Webpack-project]** is a website that basically provides a template for webpack.
+**[Webpack-project]** is a website that basically display user scores from an API.
 
 ## 🛠 Built With <a name="html, css and JavaScript"></a>
 
@@ -64,7 +59,7 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-Clone this repository to your desired folder using the following command; git clone https://github.com/Leeoasis/Webpack-project.git
+Clone this repository to your desired folder using the following command; git clone https://github.com/Leeoasis/Leaderboard.git
 ### Run tests
 
 To run tests, run the following command: npx hint . and npx stylelint "\*_/_.{css,scss}" and npx eslint .
@@ -98,7 +93,7 @@ To run tests, run the following command: npx hint . and npx stylelint "\*_/_.{cs
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Leeoasis/Webpack-project/issues).
+Feel free to check the [issues page](https://github.com/Leeoasis/Leaderboard/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

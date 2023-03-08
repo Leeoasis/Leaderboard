@@ -1,5 +1,5 @@
 import './style.css';
-import REQUESTS from '../modules/api.JS';
+import REQUESTS from '../modules/api.js';
 
 const form = document.querySelector('#form');
 const refreshBtn = document.querySelector('.refresh');

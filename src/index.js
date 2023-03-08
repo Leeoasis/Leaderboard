@@ -1,7 +1,18 @@
 import './style.css';
+import REQUESTS from '../modules/api.js';
 
-import UI from '../modules/populate.js';
+const form = document.querySelector('#form');
+const refreshBtn = document.querySelector('.refresh');
 
 document.addEventListener('DOMContentLoaded', () => {
-  UI.display();
+  REQUESTS.displayScores();
+});
+
+form.addEventListener('submit', (e) => {
+  e.preventDefault();
+  REQUESTS.createNewScore();
+  REQUESTS.clearForm();
+});
+refreshBtn.addEventListener('click', () => {
+  REQUESTS.displayScores();
 });

@@ -1,41 +1,52 @@
+<a name="readme-top"></a>
+
+<!-- TABLE OF CONTENTS -->
+
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
-  - [🛠 Built With ](#-built-with-)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[leaderaboard-website\] ](#-leaderaboard-website-)
+  - [🛠 Built With \</a](#-built-with-a)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-    - [Run tests](#run-tests)
+    - [Usage](#usage)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-**[Webpack-project]** is a website that basically display user scores from an API.
+# 📖 [leaderaboard-website] <a name="leaderboard"></a>
 
-## 🛠 Built With <a name="html, css and JavaScript"></a>
+**[Leaderboard]** Is a program that gets username and score , store it via an API and retrieves it by pressing refresh and display the name and score in a table.
 
-### Tech Stack <a name="html, css and JavaScript"></a>
+## 🛠 Built With <a name="built-with"></a
 
+- HTML
+- CSS
+- JAVASCRIPT
+
+### Tech Stack <a name="tech-stack"></a>
+
+- HTML
+- CSS
+- JAVASCRIPT
+- WEBPACK
+  
 <details>
+  <summary>Client</summary>
   <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
-  </ul>
-</details>
-
-<details>
-  <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
-  </ul>
-</details>
-
-<details>
-  <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
+    <li><a href="https://html.com/">HTML</a></li>
+    <li><a href="https://css.com/">CSS</a></li>
+    <li><a href="https://javascript.com/">JAVASCRIPT</a></li>
+    <li><a href="https://webpack.com/">WEBPACK</a></li>
   </ul>
 </details>
 
@@ -43,11 +54,15 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[dist-folder]**
+- **[User-input]**
+- **[Store-items]**
+- **[Display-scores]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,14 +71,32 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+- Clone the following link to your local machine: (https://github.com/Leeoasis/Leaderboard.git)
+
+### Prerequisites
+
+
+In order to run this project you need: 
 
 ### Setup
 
-Clone this repository to your desired folder using the following command; git clone https://github.com/Leeoasis/Leaderboard.git
-### Run tests
+Clone this repository to your desired folder:
 
-To run tests, run the following command: npx hint . and npx stylelint "\*_/_.{css,scss}" and npx eslint .
+commands:
 
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+
+### Usage
+
+To run the project, execute the following steps: 
+```sh
+  Open the local folder where your cloned your project to.
+  Locate the html file named index.html and right click on it.
+  Select open with and choose google chrome.
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,14 +109,15 @@ To run tests, run the following command: npx hint . and npx stylelint "\*_/_.{cs
 - GitHub: [@githubhandle](https://github.com/Leeoasis)
 - Twitter: [@twitterhandle](https://twitter.com/gudo_leslie)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/leslie-gudo-b08a4)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[home_page]**
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[personal-styling]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +127,7 @@ To run tests, run the following command: npx hint . and npx stylelint "\*_/_.{cs
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Leeoasis/Leaderboard/issues).
+Feel free to check the [issues page]([(https://github.com/Leeoasis/Leaderboard/issues)]).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +135,15 @@ Feel free to check the [issues page](https://github.com/Leeoasis/Leaderboard/iss
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project then don't forget to give a star ⭐ on this repository.
+If you like this project you can show the appreciation by adding a star.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="Microverse"></a>
+
+I would like to thank Microverse for the most valuable lessons in this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

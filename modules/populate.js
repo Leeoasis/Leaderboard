@@ -1,29 +1,4 @@
-const data = [
-  {
-    name: 'Name',
-    score: 64,
-  },
-  {
-    name: 'Name',
-    score: 96,
-  },
-  {
-    name: 'Name',
-    score: 34,
-  },
-  {
-    name: 'Name',
-    score: 43,
-  },
-  {
-    name: 'Name',
-    score: 34,
-  },
-  {
-    name: 'Name',
-    score: 56,
-  },
-];
+
 
 const list = document.querySelector('#populate');
 let result = '';

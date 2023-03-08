@@ -4,7 +4,7 @@
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖 \[leaderaboard-website\] ](#-leaderaboard-website-)
   - [🛠 Built With \</a](#-built-with-a)
     - [Tech Stack ](#tech-stack-)
@@ -104,7 +104,7 @@ To run the project, execute the following steps:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Leslie Gudo**
 
 - GitHub: [@githubhandle](https://github.com/Leeoasis)
 - Twitter: [@twitterhandle](https://twitter.com/gudo_leslie)

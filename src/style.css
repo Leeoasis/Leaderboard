@@ -1,6 +1,8 @@
 body {
   margin: 2rem;
   font-size: 20px;
+  background-color: rgb(12, 12, 61);
+  color: #afabab;
 }
 
 .container {
@@ -22,7 +24,8 @@ body {
 }
 
 ul {
-  border: 3px solid black;
+  border: 1px solid black;
+  box-shadow: 2px 2px 2px 2px black;
   width: 75%;
 }
 
@@ -33,7 +36,8 @@ ul li {
 }
 
 #populate > li:nth-child(odd) {
-  background: #cfcfcf;
+  background: #000;
+  color: #cfcfcf;
 }
 
 .form-items {

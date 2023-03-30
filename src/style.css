@@ -1,0 +1,45 @@
+body {
+  margin: 2rem;
+  font-size: 20px;
+  background-color: rgb(12, 12, 61);
+  color: #afabab;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.scores {
+  margin-left: 5rem;
+}
+
+.my-row {
+  display: flex;
+  gap: 5rem;
+}
+
+.refresh {
+  margin: auto auto;
+}
+
+ul {
+  border: 1px solid black;
+  box-shadow: 2px 2px 2px 2px black;
+  width: 75%;
+}
+
+ul li {
+  list-style-type: none;
+  width: 100%;
+  margin-left: -0.5rem;
+}
+
+#populate > li:nth-child(odd) {
+  background: #000;
+  color: #cfcfcf;
+}
+
+.form-items {
+  margin: 25px auto;
+}
